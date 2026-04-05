@@ -9,3 +9,5 @@ print(300)
 print(400)
 
 print(500)
+
+print(1000)
